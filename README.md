@@ -26,6 +26,11 @@ Official documentation is not yet available to the public
 npm install superdiscord
 ```
 
+**GITHUB**
+```bash
+npm install github:SuperDevelopment/SuperDiscord
+```
+
 # Support & Feature Requests
 
 We are always looking for ideas and requests! Feel free to drop me an email. 

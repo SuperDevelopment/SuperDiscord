@@ -6,7 +6,8 @@
   "scripts": {
     "tsc": "tsc -w --outDir dist --rootDir src --skipLibCheck",
     "compile": "tsc && node index.js",
-    "dev": "nodemon -e ts --exec \"npm run compile\""
+    "dev": "nodemon -e ts --exec \"npm run compile\"",
+    "test": "echo \"Test Script\""
   },
   "keywords": [
     "super-discord",
